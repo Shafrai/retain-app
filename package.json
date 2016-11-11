@@ -24,6 +24,7 @@
     "zone.js": "^0.6.25"
   },
   "devDependencies": {
+    "@types/chai": "3.4.34",
     "@types/core-js": "^0.9.33",
     "@types/lodash": "^4.14.35",
     "@types/node": "^6.0.39",
